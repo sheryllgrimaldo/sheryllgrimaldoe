@@ -353,6 +353,62 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16597958119de96243": {
+      "type": "multicolumn",
+      "blocks": {
+        "16597958111f9de0a0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e4d11692b74061764d8678e27dbe58e1.jpg",
+            "title": "Lotion",
+            "text": "<p> <\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/products\/feature-accesories"
+          }
+        },
+        "16597958111f9de0a0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-1596462502278-27bfdc403348.jpg",
+            "title": "Accesories",
+            "text": "<p> <\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/products\/sunscreen"
+          }
+        },
+        "16597958111f9de0a0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cetaphil-Daily-Facial-Moisturizer.webp",
+            "title": "Products",
+            "text": "<p> <\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/products\/moisturizer"
+          }
+        }
+      },
+      "block_order": [
+        "16597958111f9de0a0-0",
+        "16597958111f9de0a0-1",
+        "16597958111f9de0a0-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -365,6 +421,7 @@
     "1659794827ed211d2a",
     "collage",
     "video",
-    "16597878733e5e6e61"
+    "16597878733e5e6e61",
+    "16597958119de96243"
   ]
 }
