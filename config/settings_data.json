@@ -103,8 +103,8 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "text_alignment": "center",
+              "text": "FREE SHIPPING ON ALL ORDERS",
+              "text_alignment": "left",
               "color_scheme": "background-1",
               "link": ""
             }
@@ -123,7 +123,7 @@
           "logo": "shopify:\/\/shop_images\/images.png",
           "logo_width": 90,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "menu-header",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
