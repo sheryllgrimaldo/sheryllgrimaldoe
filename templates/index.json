@@ -111,6 +111,7 @@
         "94da7f40-28a1-4912-8235-666867f16bba": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/received.jpg",
             "title": "Received",
             "text": "<p> <\/p>",
             "link_label": "",
@@ -128,7 +129,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "third",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
