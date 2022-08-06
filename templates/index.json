@@ -153,7 +153,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p><strong>Best Seller Products<\/strong><\/p>",
             "heading_size": "h1"
           }
         },
