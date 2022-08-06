@@ -83,7 +83,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/order2.jpg",
             "title": "Order",
-            "text": "<p> <\/p>",
+            "text": "<p>A venenatis bibendum sapien, nunc odio pharetra malesuada aliquet.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -93,7 +93,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/payment1.png",
             "title": "Payment",
-            "text": "<p> <\/p>",
+            "text": "<p>A venenatis bibendum sapien, nunc odio pharetra malesuada aliquet.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -103,7 +103,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/delivery.png",
             "title": "Shipping",
-            "text": "<p> <\/p>",
+            "text": "<p> A venenatis bibendum sapien, nunc odio pharetra malesuada aliquet.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -113,7 +113,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/received.jpg",
             "title": "Received",
-            "text": "<p> <\/p>",
+            "text": "<p> A venenatis bibendum sapien, nunc odio pharetra malesuada aliquet.<\/p>",
             "link_label": "",
             "link": ""
           }
