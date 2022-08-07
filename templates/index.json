@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Sed interdum egestas mattis diam vehicula. Phasesllus mi odio garvida nunc gravida at egetas. Non, sed sed nulla in. Ultrices nec vitae massa ultrices quam. Pretium  lorem nunc maecenas felis",
             "text_style": "body"
           }
         },
@@ -468,13 +468,13 @@
         "165987210253e03cff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim as minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat <\/p><p><\/p><p>John Doe - Founder <\/p>"
+            "text": "<p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim as minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat <\/p><p><\/p><p><strong>John Doe - Founder <\/strong><\/p>"
           }
         },
         "165987210253e03cff-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
