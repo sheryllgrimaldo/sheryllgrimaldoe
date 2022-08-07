@@ -298,91 +298,6 @@
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "16597878733e5e6e61": {
-      "type": "featured-product",
-      "blocks": {
-        "1659787873a3333463-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1659787873a3333463-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "1659787873a3333463-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1659787873a3333463-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1659787873a3333463-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1659787873a3333463-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1659787873a3333463-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1659787873a3333463-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1659787873a3333463-0",
-        "1659787873a3333463-1",
-        "1659787873a3333463-2",
-        "1659787873a3333463-3",
-        "1659787873a3333463-4",
-        "1659787873a3333463-5",
-        "1659787873a3333463-6",
-        "1659787873a3333463-7"
-      ],
-      "settings": {
-        "product": "",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16598542855400a0b2": {
       "type": "image-with-text",
       "blocks": {
@@ -403,8 +318,8 @@
         "1659854285004df798-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "ADD TO CART",
+            "button_link": "shopify:\/\/collections"
           }
         }
       },
@@ -414,7 +329,7 @@
         "1659854285004df798-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hylamide.jpg",
+        "image": "shopify:\/\/shop_images\/hylamide2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -425,6 +340,48 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1659855026724772cd": {
+      "type": "rich-text",
+      "blocks": {
+        "1659855026b5f26809-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Deal of the Day!<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1659855026b5f26809-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1659855026b5f26809-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1659855026b5f26809-0",
+        "1659855026b5f26809-1",
+        "1659855026b5f26809-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -437,8 +394,7 @@
     "1659793348b8e0958a",
     "1659794827ed211d2a",
     "collage",
-    "video",
-    "16597878733e5e6e61",
-    "16598542855400a0b2"
+    "16598542855400a0b2",
+    "1659855026724772cd"
   ]
 }
