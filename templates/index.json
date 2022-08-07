@@ -513,7 +513,8 @@
         "165987768617a27ccc-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/secure_payment.png",
+            "title": "Secure Payment",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -522,7 +523,18 @@
         "165987768617a27ccc-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/247service.png",
+            "title": "24\/7 Customer Service",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e728172f-b291-43bc-aeca-b53c33dff4a4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thumbs_up.jpg",
+            "title": "Shop with Confident",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -532,13 +544,14 @@
       "block_order": [
         "165987768617a27ccc-0",
         "165987768617a27ccc-1",
-        "165987768617a27ccc-2"
+        "165987768617a27ccc-2",
+        "e728172f-b291-43bc-aeca-b53c33dff4a4"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "portrait",
+        "image_width": "third",
+        "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
