@@ -171,11 +171,6 @@
         "padding_bottom": 36
       }
     },
-    "16597022981e717d89": {
-      "type": "amber-featured-product",
-      "settings": {
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -407,7 +402,6 @@
     "image_banner",
     "16597958119de96243",
     "multicolumn",
-    "16597022981e717d89",
     "rich_text",
     "1659793348b8e0958a",
     "1659794827ed211d2a",
