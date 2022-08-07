@@ -156,12 +156,20 @@
               "heading": "INFORMATION",
               "menu": "information"
             }
+          },
+          "57a2d385-7c09-4e44-bbf7-9d12ced117ea": {
+            "type": "link_list",
+            "settings": {
+              "heading": "",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "67ecdd69-b4c7-47b0-ac2b-2fde27eaa832",
           "footer-2",
-          "23ba74d6-6b36-4702-92de-86e09f05efe3"
+          "23ba74d6-6b36-4702-92de-86e09f05efe3",
+          "57a2d385-7c09-4e44-bbf7-9d12ced117ea"
         ],
         "settings": {
           "color_scheme": "background-1",
