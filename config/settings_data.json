@@ -160,8 +160,8 @@
           "57a2d385-7c09-4e44-bbf7-9d12ced117ea": {
             "type": "link_list",
             "settings": {
-              "heading": "",
-              "menu": "footer"
+              "heading": "MY ACCOUNT",
+              "menu": "account"
             }
           }
         },
