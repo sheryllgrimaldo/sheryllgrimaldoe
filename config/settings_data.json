@@ -135,26 +135,19 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "disabled": true,
+          "67ecdd69-b4c7-47b0-ac2b-2fde27eaa832": {
+            "type": "image",
             "settings": {
-              "heading": "Store Location",
-              "menu": ""
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "image": "shopify:\/\/shop_images\/images.png",
+              "image_width": 65,
+              "alignment": ""
             }
           },
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Store Location",
+              "subtext": "<p>9066 Green Lake Drive Chevy<\/p><p>Chase, MD 20815<\/p><p><\/p><p>MOnday-Saturday:<\/p><p>8:0 am - 4:00pm<\/p><p><\/p><p>Sunday:<\/p><p>9:00 am- 5:00pm <\/p>"
             }
           },
           "5dc1622f-838e-4025-9246-16e6402baa88": {
@@ -163,13 +156,20 @@
               "heading": "Heading",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "ac1845ce-70fa-4af8-ac32-32c3aed382ef": {
+            "type": "text",
+            "settings": {
+              "heading": "Heading",
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1",
+          "67ecdd69-b4c7-47b0-ac2b-2fde27eaa832",
           "footer-2",
-          "5dc1622f-838e-4025-9246-16e6402baa88"
+          "5dc1622f-838e-4025-9246-16e6402baa88",
+          "ac1845ce-70fa-4af8-ac32-32c3aed382ef"
         ],
         "settings": {
           "color_scheme": "background-1",
@@ -179,9 +179,9 @@
           "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": true,
-          "margin_top": 48,
-          "padding_top": 36,
-          "padding_bottom": 36
+          "margin_top": 40,
+          "padding_top": 24,
+          "padding_bottom": 24
         }
       },
       "main-password-header": {
