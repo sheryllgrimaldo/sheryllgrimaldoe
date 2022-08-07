@@ -150,26 +150,18 @@
               "subtext": "<p>9066 Green Lake Drive Chevy<\/p><p>Chase, MD 20815<\/p><p>MOnday-Saturday:<\/p><p>8:0 am - 4:00pm<\/p><p>Sunday:<\/p><p>9:00 am- 5:00pm <\/p>"
             }
           },
-          "5dc1622f-838e-4025-9246-16e6402baa88": {
-            "type": "text",
+          "23ba74d6-6b36-4702-92de-86e09f05efe3": {
+            "type": "link_list",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
-          },
-          "ac1845ce-70fa-4af8-ac32-32c3aed382ef": {
-            "type": "text",
-            "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "INFORMATION",
+              "menu": "information"
             }
           }
         },
         "block_order": [
           "67ecdd69-b4c7-47b0-ac2b-2fde27eaa832",
           "footer-2",
-          "5dc1622f-838e-4025-9246-16e6402baa88",
-          "ac1845ce-70fa-4af8-ac32-32c3aed382ef"
+          "23ba74d6-6b36-4702-92de-86e09f05efe3"
         ],
         "settings": {
           "color_scheme": "background-1",
