@@ -137,9 +137,10 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Store Location",
+              "menu": ""
             }
           },
           "footer-1": {
@@ -155,12 +156,20 @@
               "heading": "Our mission",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "5dc1622f-838e-4025-9246-16e6402baa88": {
+            "type": "text",
+            "settings": {
+              "heading": "Heading",
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "5dc1622f-838e-4025-9246-16e6402baa88"
         ],
         "settings": {
           "color_scheme": "background-1",
