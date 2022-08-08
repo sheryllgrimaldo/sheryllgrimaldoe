@@ -163,26 +163,18 @@
               "heading": "MY ACCOUNT",
               "menu": "account"
             }
-          },
-          "54c5f953-2ca4-4b4b-afd1-39a4a079cc8e": {
-            "type": "text",
-            "settings": {
-              "heading": "NEWSLETTER",
-              "subtext": "<p> Don't miss out thousands of great deals & promotions. <\/p>"
-            }
           }
         },
         "block_order": [
           "67ecdd69-b4c7-47b0-ac2b-2fde27eaa832",
           "footer-2",
           "23ba74d6-6b36-4702-92de-86e09f05efe3",
-          "57a2d385-7c09-4e44-bbf7-9d12ced117ea",
-          "54c5f953-2ca4-4b4b-afd1-39a4a079cc8e"
+          "57a2d385-7c09-4e44-bbf7-9d12ced117ea"
         ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "NEWSLETTER    Don't miss out thousands of great deals & promotions.",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
